@@ -11,4 +11,4 @@
 
 
 |:==:|:==:|:==:|
-|1|code cells|[variable.assign]()|
+|1|code cells|[variable.assign](https://github.com/yermine/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
