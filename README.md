@@ -1,9 +1,6 @@
 # NLP_2023
 
 
-# ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
-- ## For <font color = 'orange'> more syntax</font> of markdown langauge, [Click here!](https://www.markdownguide.org/basic-syntax/)
-
 # 😋🍦 **Python Language**
 
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
@@ -19,6 +16,12 @@
 ### **4. Markdown Language**
 * [Emoji](https://gist.github.com/rxaviers/7360908)
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
+
+
+# ✂️✏️📌 **How to Use <font color = 'red'> Markdown Language**
+- ## For <font color = 'orange'> more syntax</font> of markdown langauge, [Click here!](https://www.markdownguide.org/basic-syntax/)
+
 
 
 # :blush::snowflake::u5272: python language
