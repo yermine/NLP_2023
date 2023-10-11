@@ -30,7 +30,7 @@
 | #| Sessions|keywords |
 |:-:|:-:|:-:|
 |1 | Code Cells❄️|[variable,assign](https://github.com/yermine/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 2|Five Types of Data|cccc|
+| 2|Five Types of Data|[number,string,list,tuple,dictionary]|
 
 
 
