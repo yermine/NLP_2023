@@ -30,7 +30,9 @@
 | #| Sessions|keywords |
 |:-:|:-:|:-:|
 |1 | Code Cells❄️|[variable,assign](https://github.com/yermine/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 2|Five Types of Data|[number,string,list,tuple,dictionary]|setting
+| 2|Five Types of Data|[number,string,list,tuple,dictionary]|setting|
+|3 | Indexing & Slicing 📌✂️ | [:, 0, -1, link +, repeat *, length len](https://github.com/ms624atyale/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4|statements|
 
 
 
